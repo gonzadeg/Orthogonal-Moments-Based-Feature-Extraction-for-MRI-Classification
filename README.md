@@ -6,14 +6,6 @@ Brain tumor classification from MRI images using orthogonal moments for feature 
 This project uses the Brain Tumor MRI Dataset:
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-# Dataset structure
-
-data/
-  glioma/
-  meningioma/
-  pituitary/
-  notumor/
-
 ## Publication
 This project is based on a published research paper:
 
